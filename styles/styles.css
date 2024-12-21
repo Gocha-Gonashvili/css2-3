@@ -1,0 +1,1072 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #FFF;
+}
+
+header {
+    width: 1231px;
+    padding: 12px 24px;
+    background: #F7F4FF;
+    margin-left: auto;
+}
+
+#LogoOne {
+    padding: 13.489px;
+    vertical-align: middle;
+}
+
+#navDiv {
+    width: 904.34px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#navOne {
+    width: 349px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+#ulOne {
+    width: 349px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#liONe {
+    margin-right: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#liTwo {
+    margin-right: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#liThree {
+    margin-right: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#liFour {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#about {
+    color: #323;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+#what {
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+#contact {
+    color: #8E26C0;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+}
+
+#help {
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+#contactButton {
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    padding: 8px 16px;
+    color: #8E26C0;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+main {
+    margin-top: 142px;
+    margin-bottom: 163px;
+}
+
+#topContent {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+#imgDiv {
+    width: 610px;
+    height: 458px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#topText {
+    width: 610px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 45px;
+    margin-bottom: 53px;
+}
+
+#h2One {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#lorem {
+    color: #535862;
+    font-family: Prata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#olOne {
+    width: 335px;
+}
+
+#olOneC {
+    list-style-position: inside;
+}
+
+#topLiOne {
+    color: #000;
+    font-family: "Fira Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 12px;
+}
+
+#topLiTwo {
+    color: #000;
+    font-family: "Fira Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 12px;
+}
+
+#topLiThree {
+    color: #000;
+    font-family: "Fira Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 12px;
+}
+
+#topLiFour {
+    color: #000;
+    font-family: "Fira Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#topContentOne {
+    margin-bottom: 83px;
+}
+
+#bottomContent {
+    width: 1221px;
+    margin: 0 auto;
+}
+
+#bottomOne {
+    width: 905px;
+    margin: 0 auto;
+}
+
+#bottomHeading {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#loremTwo {
+    color: #535862;
+    text-align: center;
+    font-family: Prata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 18px;
+    margin-bottom: 28px;
+}
+
+#bottomTwo {
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+    width: 1221px;
+}
+
+#bottomTwoOne {
+    border-radius: 16px;
+    background: #FFF;
+    padding: 20px;
+    margin-right: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#addressMom {
+    margin-bottom: 24px;
+}
+
+#addressImgDiv {
+    margin-right: 16px;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#addressText {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#h3One {
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#adressT {
+    color: #6D5F8B;
+    font-family: Prata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#mailMom {
+    margin-bottom: 24px;
+}
+
+#mailImgDiv {
+    margin-right: 16px;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#mailText {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#h3Two {
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#mailT {
+    color: #6D5F8B;
+    font-family: Prata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#phoneMom {
+    margin-bottom: 235px;
+}
+
+#phoneImgDiv {
+    margin-right: 16px;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#phoneText {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#h3Three {
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#phoneT {
+    color: #6D5F8B;
+    font-family: Prata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#bottomTowTwo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 730px;
+}
+
+#fillHeadingMom {
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 1.28px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+#form {
+    width: 730px;
+    height: 414px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#lName {
+    color: #6D5F8B;
+    font-family: Prata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: block;
+}
+
+#name {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 730px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+#lMail {
+    color: #6D5F8B;
+    font-family: Prata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: block;
+}
+
+#email {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 730px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+#message {
+    width: 730px;
+    height: 146px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 730px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    resize: none;
+    font-family: Prata;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#submitButton {
+    width: 140px;
+    margin-left: auto;
+}
+
+#submit {
+    width: 140px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: 0;
+    background: #8E26C0;
+    margin-left: auto;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: auto;
+}
+
+footer {
+    width: 1920px;
+    height: 480px;
+    padding: 64px 0px 48px 0px;
+    background: #53389E;
+}
+
+#footerDiv {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#topFooter {
+    height: 240px;
+    margin-bottom: 64px;
+}
+
+#firstConteiner {
+    width: 176px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 32px;
+}
+
+#fChead {
+    color: #D6BBFB;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    padding-bottom: 16px;
+}
+
+#fCLinkOne {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkTwo {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkThree {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#new {
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.30);
+    background: rgba(255, 255, 255, 0.10);
+    padding: 2px 6px;
+    margin-left: 8px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+}
+
+#fCLinkFour {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkFive {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkSix {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+}
+
+#secondConteiner {
+    width: 176px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 32px;
+}
+
+#sChead {
+    color: #D6BBFB;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    padding-bottom: 16px;
+}
+
+#sCLinkOne {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#sCLinkTwo {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#sCLinkThree {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#sCLinkFour {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#sCLinkFive {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#sCLinkSix {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+}
+
+#therdConteiner {
+    width: 176px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 32px;
+}
+
+#tChead {
+    color: #D6BBFB;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    padding-bottom: 16px;
+}
+
+#tCLinkOne {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#tCLinkTwo {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#tCLinkThree {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#tCLinkFour {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#tCLinkFive {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#tCLinkSix {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+}
+
+#fourthConteiner {
+    width: 176px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 32px;
+}
+
+#fChead {
+    color: #D6BBFB;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    padding-bottom: 16px;
+}
+
+#fCLinkOne {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkTwo {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkThree {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkFour {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkFive {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fCLinkSix {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+}
+
+#fifthConteiner {
+    width: 176px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 32px;
+}
+
+#fiChead {
+    color: #D6BBFB;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    padding-bottom: 16px;
+}
+
+#fiCLinkOne {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fiCLinkTwo {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fiCLinkThree {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fiCLinkFour {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fiCLinkFive {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#fiCLinkSix {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+}
+
+#sixthConteiner {
+    width: 176px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#siChead {
+    color: #D6BBFB;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    padding-bottom: 16px;
+}
+
+#siCLinkOne {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#siCLinkTwo {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#siCLinkThree {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#siCLinkFour {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#siCLinkFive {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+#siCLinkSix {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: block;
+    text-decoration: none;
+}
+
+#bottomFooterMom {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#bottomFooter {
+    width: 1216px;
+    display: inline-block;
+    padding-top: 32px;
+    border-top: 1px solid #7F56D9;
+    height: 64px;
+}
+
+#footerImg {
+    width: 139px;
+    height: 32px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#footerRights {
+    width: 1070px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#footerCopy {
+    color: #D6BBFB;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: right;
+    vertical-align: middle;
+}
